@@ -1,0 +1,22 @@
+[
+	{
+		"name": "SaaS Product",
+		"description": "This is my attempt to create an SaaS product using Cloudinary and Nextjs.",
+		"image": "/assets/images/projects/saas.png",
+		"url": "https://saas-project-pink.vercel.app"
+	},
+	{
+		"name": "Music Academy",
+		"description": "This is a frontend based project with using Accernity UI library and Lucide React.",
+		"image": "/assets/images/projects/musicacademy.png",
+		"url": "https://music-academy-topaz.vercel.app"
+	},
+	{
+		"name": "Mystery Msg",
+		"description": "This is my full stack application , created with Nextjs and MongoDB. A way to convey your msgs.",
+		"image": "/assets/images/projects/mysterymsg.png",
+		"url": "https://mystery-msg.vercel.app"
+	}
+	
+	
+]
